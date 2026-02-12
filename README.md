@@ -1,3 +1,2 @@
-# pianfan.github.io
+# 个人学习资料分享
 
-My Personal Blog via GitHub
